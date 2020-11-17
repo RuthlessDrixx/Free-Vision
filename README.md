@@ -5,7 +5,7 @@
  Diyaa 8I
  </h4>
 
- <p> Children are abused all around the world and only about (number) actually say something about it. So, we're here today and <b>every</b> other day, to listen to and repair the heartbreak of our future adults. 
+ <p> Children are abused all around the world and many of them are too worried to actually say something about it. So, we're here today and <b>every</b> day, to listen to and repair the heartbreak of our future adults.
 </p>
 
 <h4 align="center">
