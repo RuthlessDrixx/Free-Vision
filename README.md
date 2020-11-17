@@ -14,6 +14,6 @@
  <p></p>
  <p></p>
  <p></p>
- <p align="center">
+ <footer><p align="center">
  Supporting all Children in need of help. Year 8 2020 RRRR Assesment (Mainstream) | Diyaa 8I
- </p>
+ </p></footer>
