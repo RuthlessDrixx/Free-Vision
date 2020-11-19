@@ -12,7 +12,7 @@
 What are the impacts of Gender Based Violence on Children?
 </h3>
 
-<p align="center">
+<p align="left">
 There are four main types of violence against children:
 <ul>
 <li> Physical Abuse
