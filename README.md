@@ -12,13 +12,19 @@
 What are the impacts of Gender Based Violence on Children?
 </h3>
 
-<p align="left">
-There are four main types of violence against children:
+<p align="center">
+Children. Our Future Adults which will lead to Future generations are being put against their own will and being abused in all sorts of undreamable ways. There are four main types of violence against children:
 <ul>
 <li> Physical Abuse
 <li> Mental Abuse
 <li> Sexual Abuse
 <li> And Neglect.
+</ul>
+</p>
+
+<p align="center">
+I say this over and over again and will continue to say it today and the many years to come: "That's 4 too many." 
+
 </p>
 
 <h4 align="center">
