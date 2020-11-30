@@ -38,12 +38,12 @@ Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: Cornsilk;
-   color: white;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: Cornsilk;
+ color: white;
    text-align: center;
 }
 </style>
