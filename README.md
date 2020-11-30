@@ -23,7 +23,6 @@ Children. Our Future Adults which will lead to Future generations are being put 
 </p>
 
 <p align="center">
-I say this over and over again and will continue to say it today and the many years to come: "That's 4 too many." 
 
 </p>
 
@@ -31,5 +30,5 @@ I say this over and over again and will continue to say it today and the many ye
 Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)
 </h4>
  <footer><p align="center">
- Supporting all Children in need of help. Year 8 2020 RRRR Assesment (Mainstream) | Diyaa 8I
+ Supporting all Children in need of help.
  </p></footer>
