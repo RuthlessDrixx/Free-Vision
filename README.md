@@ -17,21 +17,24 @@ What is Child abuse?
 </h3>
 
 <p align="center">
-Child abuse can be defined as violence against children or maltreatment of children.
+Child abuse can be defined as violence against children or mistreatment of children.
 
 There are four main types of violence against children:
 
-Physical abuse
-Sexual abuse
-Mental abuse
-Neglect
-These could include maltreatment or exploitation, harm or abuse, including commercial sexual exploitation, trafficking, child labour and harmful practices, such as female genital mutilation/cutting and child marriage.
+<ul>
+<li>Physical abuse
+<li>Mental abuse
+<li>Sexual abuse
+<li>And Neglect
+</ul>
 
-Child abuse can happen anywhere – from here in Australia, with the Royal Commission into child abuse, to developing countries like the Democratic Republic of the Congo.
+These could involve mistreatment or oppression, torment or abuse, such-as sexual slavery, human trafficking, child labour and hurtful practices, such as breast ironing and forced early marriage.
 
-Child abuse is a larger problem than we realise. It affects at least 1.7 billion children every year, but the numbers could be much larger due to underreporting.
+Child Abuse can occur no matter the amount of security and welfare and can happen anywhere. Such as here in Australia with the Royal Commission onto child abuse, to evolving countries like Benin in West Africa.
 
-For these children, the effects of child abuse can last for life.
+Child Abuse is a much greater conflict than most people suspect. It affects at least 1.7 billion minors every year, although the numbers could be even greater due to underreporting.
+
+Children who suffered from abuse as a minor can have effects on them which last for life.
 </p>
 
 <h3 align="center">
@@ -39,20 +42,21 @@ What are the effects of child abuse?
 </h3>
 
 <p align="center">
-Child abuse can have long-term consequences, often causing stress that is associated with disruption in early brain development. Extreme stress can impair the development of the nervous and immune systems.
+Impacts and effects of child abuse can have many consequences for short and long amounts of time. A main impact is stress which disrupts early brain development. In worse cases, extreme stress may occur, which ccan damage the development of the nervous and immune systems.
 
-Oshuri has been given a safe place to call home, where she is protected thanks to World Vision India's Child Protection Unit
-Adults who have been abused as children are at an increased risk of behavioural, physical and mental health problems. Signs of child abuse could include:
+Long term effects can last for life, increasing the risk of behavioural, physical and mental health problems of adults who were abused as children. Signs of child abuse could include:
 
--depression
--smoking
--perpetrating or being a victim of violence
--obesity
--high-risk sexual behaviours
--unintended pregnancy
--alcohol and drug misuse
+<ul>
+<li>depression
+<li>smoking
+<li>perpetrating or being a victim of violence
+<li>obesity
+<li>high-risk sexual behaviours
+<li>unintended pregnancy
+<li>alcohol and drug misuse
+</ul>
 
-These behaviours and characteristics can contribute to heart disease, cancer, suicide and sexually-transmitted infections.
+Heart disease, cancer, suicide and sexually-transmitted infections are all contributed by these behaviours and attributes.
 
 Child abuse also has an economic impact, which could include costs of hospital stays, mental health treatment, child welfare, and longer-term health costs.
 
@@ -63,13 +67,13 @@ Child abuse also has an economic impact, which could include costs of hospital s
 Facts and Statistics
 </h3>
 
-<p align="center">
--Children make up more than a quarter (28 percent) of all detected trafficking victims. 
--Nearly 50 million children, across the globe, have migrated across or within borders, or been forcibly displaced. More than half that number – 28 million – are boys and girls who have fled violence and insecurity. 
--One quarter of all adults report having been physically abused as children.
--International studies suggest one in five women and one in 13 men report having been sexually abused as a child.
--Every year, there are an estimated 41,000 children under 15 years of age who die from homicide. This number may not represent the whole problem, as a large proportion of deaths due to child abuse are incorrectly attributed to falls, burns, drowning and other causes.
-</p>
+<ul align="center">
+<li>Children make up more than a quarter (28 percent) of all detected trafficking victims. 
+<li>Nearly 50 million children, across the globe, have migrated across or within borders, or been forcibly displaced. More than half that number – 28 million – are boys and girls who have fled violence and insecurity. 
+<li>One quarter of all adults report having been physically abused as children.
+<li>International studies suggest one in five women and one in 13 men report having been sexually abused as a child.
+<li>Every year, there are an estimated 41,000 children under 15 years of age who die from homicide. This number may not represent the whole problem, as a large proportion of deaths due to child abuse are incorrectly attributed to falls, burns, drowning and other causes.
+</ul>
 
 <h4 align="center">
 Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)
