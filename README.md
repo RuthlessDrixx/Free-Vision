@@ -27,14 +27,14 @@ Child abuse can be defined as violence against children or mistreatment of child
 <li>Sexual abuse
 <li>And Neglect
 
+<p>
+These could involve mistreatment or oppression, torment or abuse, such-as sexual slavery, human trafficking, child labour and hurtful practices, such as breast ironing and forced early marriage.</p>
 
-These could involve mistreatment or oppression, torment or abuse, such-as sexual slavery, human trafficking, child labour and hurtful practices, such as breast ironing and forced early marriage.
+<p>Child Abuse can occur no matter the amount of security and welfare and can happen anywhere. Such as here in Australia with the Royal Commission onto child abuse, to evolving countries like Benin in West Africa.</p>
 
-Child Abuse can occur no matter the amount of security and welfare and can happen anywhere. Such as here in Australia with the Royal Commission onto child abuse, to evolving countries like Benin in West Africa.
+<p>Child Abuse is a much greater conflict than most people suspect. It affects at least 1.7 billion minors every year, although the numbers could be even greater due to underreporting.</p>
 
-Child Abuse is a much greater conflict than most people suspect. It affects at least 1.7 billion minors every year, although the numbers could be even greater due to underreporting.
-
-Children who suffered from abuse as a minor can have effects on them which last for life.
+<p>Children who suffered from abuse as a minor can have effects on them which last for life.</p>
 
 
 <hr>
@@ -44,9 +44,9 @@ What are the effects of child abuse?
 </h3>
 
 <p align="left">
-Impacts and effects of child abuse can have many consequences for short and long amounts of time. A main impact is stress which disrupts early brain development. In worse cases, extreme stress may occur, which ccan damage the development of the nervous and immune systems.
+Impacts and effects of child abuse can have many consequences for short and long amounts of time. A main impact is stress which disrupts early brain development. In worse cases, extreme stress may occur, which can damage the development of the nervous and immune systems.</p>
 
-Long term effects can last for life, increasing the risk of behavioural, physical and mental health problems of adults who were abused as children. Signs of child abuse could include:
+<p>Long term effects can last for life, increasing the risk of behavioural, physical and mental health problems of adults who were abused as children. Signs of child abuse could include:
 
 <ul>
 <li>depression
@@ -58,9 +58,9 @@ Long term effects can last for life, increasing the risk of behavioural, physica
 <li>alcohol and drug misuse
 
 <p>
-Heart disease, cancer, suicide and sexually-transmitted infections are all contributed by these behaviours and attributes.
+Heart disease, cancer, suicide and sexually-transmitted infections are all contributed by these behaviours and attributes.</p>
 
-Child abuse also has an economic impact, which could include costs of hospital stays, mental health treatment, child welfare, and longer-term health costs.
+<p>Child abuse also has an economic impact, which could include costs of hospital stays, mental health treatment, child welfare, and longer-term health costs.</p>
 
 
 <hr>
