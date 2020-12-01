@@ -67,7 +67,7 @@ Child abuse also has an economic impact, which could include costs of hospital s
 Facts and Statistics
 </h3>
 
-<ul align="center">
+<ul align="left">
 <li>Children make up more than a quarter (28 percent) of all detected trafficking victims. 
 <li>Nearly 50 million children, across the globe, have migrated across or within borders, or been forcibly displaced. More than half that number – 28 million – are boys and girls who have fled violence and insecurity. 
 <li>One quarter of all adults report having been physically abused as children.
