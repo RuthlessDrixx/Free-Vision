@@ -57,6 +57,7 @@ Impacts and effects of child abuse can have many consequences for short and long
 <li>high-risk sexual behaviours
 <li>unintended pregnancy
 <li>alcohol and drug misuse
+<p>    
 
 <p>
 Heart disease, cancer, suicide and sexually-transmitted infections are all contributed by these behaviours and attributes.</p>
