@@ -17,9 +17,7 @@ What is Child abuse?
 </h3>
 
 <p align="center">
-Child abuse can be defined as violence against children or mistreatment of children.
-
-There are four main types of violence against children:
+Child abuse can be defined as violence against children or mistreatment of children. There are four main types of violence against children:
 
 <ul>
 <li>Physical abuse
