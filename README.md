@@ -10,7 +10,7 @@ About Us
 </h3>
 
  <p align="center"> Children are abused all around the world and many of them are too worried to actually say something about it. So, we're here today and <b>every</b> day, to listen to and repair the heartbreak of our future adults. (Children. Our Future Adults which will lead to Future generations are being put against their own will and being abused in all sorts of undreamable ways.)
-</p>
+
 
 <hr>
 
@@ -26,7 +26,7 @@ Child abuse can be defined as violence against children or mistreatment of child
 <li>Mental abuse
 <li>Sexual abuse
 <li>And Neglect
-</ul>
+
 
 These could involve mistreatment or oppression, torment or abuse, such-as sexual slavery, human trafficking, child labour and hurtful practices, such as breast ironing and forced early marriage.
 
@@ -35,7 +35,7 @@ Child Abuse can occur no matter the amount of security and welfare and can happe
 Child Abuse is a much greater conflict than most people suspect. It affects at least 1.7 billion minors every year, although the numbers could be even greater due to underreporting.
 
 Children who suffered from abuse as a minor can have effects on them which last for life.
-</p>
+
 
 <hr>
 
@@ -56,12 +56,12 @@ Long term effects can last for life, increasing the risk of behavioural, physica
 <li>high-risk sexual behaviours
 <li>unintended pregnancy
 <li>alcohol and drug misuse
-</ul>
 
+<p>
 Heart disease, cancer, suicide and sexually-transmitted infections are all contributed by these behaviours and attributes.
 
 Child abuse also has an economic impact, which could include costs of hospital stays, mental health treatment, child welfare, and longer-term health costs.
-</p>
+
 
 <hr>
 
@@ -75,7 +75,7 @@ Facts and Statistics
 <li>One quarter of all adults report having been physically abused as children.
 <li>International studies suggest one in five women and one in 13 men report having been sexually abused as a child.
 <li>Every year, there are an estimated 41,000 children under 15 years of age who die from homicide. This number may not represent the whole problem, as a large proportion of deaths due to child abuse are incorrectly attributed to falls, burns, drowning and other causes.
-</ul>
+
 
 <hr>
 
@@ -84,4 +84,3 @@ Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)
 </h4>
  <p align="center">
  Supporting all Children in need of help.
- </p>
