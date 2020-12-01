@@ -16,7 +16,7 @@ About Us
 What is Child abuse?
 </h3>
 
-<p align="center">
+<p align="left">
 Child abuse can be defined as violence against children or mistreatment of children. There are four main types of violence against children:
 
 <ul>
@@ -39,7 +39,7 @@ Children who suffered from abuse as a minor can have effects on them which last 
 What are the effects of child abuse?
 </h3>
 
-<p align="center">
+<p align="left">
 Impacts and effects of child abuse can have many consequences for short and long amounts of time. A main impact is stress which disrupts early brain development. In worse cases, extreme stress may occur, which ccan damage the development of the nervous and immune systems.
 
 Long term effects can last for life, increasing the risk of behavioural, physical and mental health problems of adults who were abused as children. Signs of child abuse could include:
