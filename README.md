@@ -34,6 +34,43 @@ Child abuse is a larger problem than we realise. It affects at least 1.7 billion
 For these children, the effects of child abuse can last for life.
 </p>
 
+<h3 align="center">
+What are the effects of child abuse?
+</h3>
+
+<p align="center">
+Child abuse can have long-term consequences, often causing stress that is associated with disruption in early brain development. Extreme stress can impair the development of the nervous and immune systems.
+
+Oshuri has been given a safe place to call home, where she is protected thanks to World Vision India's Child Protection Unit
+Adults who have been abused as children are at an increased risk of behavioural, physical and mental health problems. Signs of child abuse could include:
+
+-depression
+-smoking
+-perpetrating or being a victim of violence
+-obesity
+-high-risk sexual behaviours
+-unintended pregnancy
+-alcohol and drug misuse
+
+These behaviours and characteristics can contribute to heart disease, cancer, suicide and sexually-transmitted infections.
+
+Child abuse also has an economic impact, which could include costs of hospital stays, mental health treatment, child welfare, and longer-term health costs.
+
+
+</p>
+
+<h3 align="center">
+Facts and Statistics
+</h3>
+
+<p align="center">
+-Children make up more than a quarter (28 percent) of all detected trafficking victims. 
+-Nearly 50 million children, across the globe, have migrated across or within borders, or been forcibly displaced. More than half that number – 28 million – are boys and girls who have fled violence and insecurity. 
+-One quarter of all adults report having been physically abused as children.
+-International studies suggest one in five women and one in 13 men report having been sexually abused as a child.
+-Every year, there are an estimated 41,000 children under 15 years of age who die from homicide. This number may not represent the whole problem, as a large proportion of deaths due to child abuse are incorrectly attributed to falls, burns, drowning and other causes.
+</p>
+
 <h4 align="center">
 Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)
 </h4>
