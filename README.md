@@ -26,6 +26,7 @@ Child abuse can be defined as violence against children or mistreatment of child
 <li>Mental abuse
 <li>Sexual abuse
 <li>And Neglect
+<p>
 
 <p>
 These could involve mistreatment or oppression, torment or abuse, such-as sexual slavery, human trafficking, child labour and hurtful practices, such as breast ironing and forced early marriage.</p>
