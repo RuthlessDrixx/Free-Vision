@@ -82,6 +82,6 @@ Facts and Statistics
 <h4 align="center">
 Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)
 </h4>
- <footer><p align="center">
+ <p align="center">
  Supporting all Children in need of help.
- </p></footer>
+ </p>
