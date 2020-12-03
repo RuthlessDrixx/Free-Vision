@@ -3,7 +3,7 @@
     <h4 align="center">Diyaa 8I</h4>
 </h1>
 
-<img src="FreeVisionLogo.png" alt="Free Vision Logo">
+<img src="/FreeVisionLogo.png" alt="Free Vision Logo">
 
 <hr>
 
