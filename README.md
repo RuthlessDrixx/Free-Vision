@@ -9,7 +9,7 @@
 About Us
 </h3>
 
- <p align="center"> Children are abused all around the world and many of them are too worried to actually say something about it. So, we're here today and <b>every</b> day, to listen to and repair the heartbreak of our future adults. (Children. Our Future Adults which will lead to Future generations are being put against their own will and being abused in all sorts of undreamable ways.)
+ <p align="center"> Children are abused all around the world and many of them are too worried to actually say something about it. So, we're here today and <b>every</b> day, to listen to and repair the heartbreak of our future adults. We offer many services such as councelling, shelter, food and clothing.
 
 
 <hr>
