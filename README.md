@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center"><b>Free Vision Logo</b></h4>
-<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo" align="center">
+<img align="center" src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
 
 <hr>
 
