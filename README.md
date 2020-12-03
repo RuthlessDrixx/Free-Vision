@@ -126,11 +126,11 @@ Facts and Statistics
 Supporting all Children in need of help.
 </h4>
 
-<h4 align="left">
-<b>Contact Us</b>
-<b>(Within Australia) </b>Phone: 13 37 40
-<b>(From Overseas) </b>Phone: + 61 3 9920 5504
-Email: service@freevision.com.au
+<h4>
+<h4><b>Contact Us</b>
+<h4><b>(Within Australia) </b>Phone: 13 37 40
+<h4><b>(From Overseas) </b>Phone: + 61 3 9920 5504
+<h4>Email: service@freevision.com.au
 </h4>
 
  <p align="center">
