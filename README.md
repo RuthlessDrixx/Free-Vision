@@ -5,10 +5,9 @@
 
 <h4 align="center"><b>Free Vision Logo</b></h4>
 
-<div style="text-align: center;">
-  <img scr="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg">
-</div>
-
+<p align="center">
+<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
+</p>
 <hr>
 
 <h3 align="center">
@@ -28,7 +27,7 @@ Believe it or not, we have been asked this question more than once, so we may as
 <li> To make this world a better place.
 <li> To put a stop to child abuse.
 <li> To decrease the amount of mistreatment such as sexual slavery, human trafficking and child labour and then eventually put a stop to it all over.
-<li> And most important of all... To give vulnerable young and youth a secure and safer place to live and call home.
+<li> And most importantly... To give vulnerable young and youth a secure and safer place to live and call home.
 
 <hr>
 
