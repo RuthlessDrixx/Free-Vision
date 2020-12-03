@@ -3,7 +3,8 @@
     <h4 align="center">Diyaa 8I</h4>
 </h1>
 
-<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
+<h4 align="center"><b>Free Vision Logo</b></h4>
+<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo" class="center">
 
 <hr>
 
