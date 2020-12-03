@@ -3,7 +3,7 @@
     <h4 align="center">Diyaa 8I</h4>
 </h1>
 
-<img src="/FreeVisionLogo.png" alt="Free Vision Logo">
+<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
 
 <hr>
 
@@ -17,7 +17,7 @@ About Us
 
 <p>Here at Free Vision, we supply aid and recources for millions of children from all around the world. We provide counselling, shelter, food, clothing, mentoring and safe families willing to look after these vulnerable minors.
 
-<p><b>Why do we exist?<b>
+<p><b>Why do we exist?</b>
 Believe it or not, we have been asked this question more than once, so we may aswell answer it:
 
 <ul>
@@ -124,7 +124,7 @@ Supporting all Children in need of help.
 </h4>
 
 <h4 align="left">
-<b>Contact Us<b>
+<b>Contact Us</b>
 <b>(Within Australia) </b>Phone: 13 37 40
 <b>(From Overseas) </b>Phone: + 61 3 9920 5504
 Email: service@freevision.com.au
