@@ -72,7 +72,7 @@ Impacts and effects of child abuse can have many consequences for short and long
 
 <ul>
 <li>Depression
-<li>Dmoking
+<li>Smoking
 <li>Perpetrating or being a victim of violence
 <li>Obesity
 <li>High-risk sexual behaviours
