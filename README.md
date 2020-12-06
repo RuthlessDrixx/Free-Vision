@@ -3,11 +3,6 @@
     <h4 align="center">Diyaa 8I</h4>
 </h1>
 
-<h4 align="center"><b>Free Vision Logo</b></h4>
-
-<p align="center">
-<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
-</p>
 <hr>
 
 <h3 align="center">
@@ -28,6 +23,12 @@ Believe it or not, we have been asked this question more than once, so we may as
 <li> To put a stop to child abuse.
 <li> To decrease the amount of mistreatment such as sexual slavery, human trafficking and child labour and then eventually put a stop to it all over.
 <li> And most importantly... To give vulnerable young and youth a secure and safer place to live and call home.
+
+<h5 align="center"><b>Free Vision Logo</b></h4>
+
+<p align="center">
+<img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
+</p>
 
 <hr>
 
@@ -54,6 +55,9 @@ These could involve mistreatment or oppression, torment or abuse, such-as sexual
 
 <p>Children who suffered from abuse as a minor can have effects on them which last for life.</p>
 
+<p align="center">
+<img src="https://i.ytimg.com/vi/fY1UxaqJd6A/hqdefault.jpg" alt="Stop The Child Abuse">
+</p>
 
 <hr>
 
@@ -81,6 +85,9 @@ Heart disease, cancer, suicide and sexually-transmitted infections are all contr
 
 <p>Child abuse also has an economic impact, which could include costs of hospital stays, mental health treatment, child welfare, and longer-term health costs.</p>
 
+<p align="center">
+<img src="https://keepkidssafe.org/wp-content/uploads/2015/06/effectsofchildabuse-750x600.jpg" alt="Effects of Child Abuse">
+</p>
 
 <hr>
 
@@ -102,6 +109,10 @@ Oshuri: Learning to open up again
 
 <p>For Oshuri, now home is a safe place – a place where she has an opportunity to be loved, cared for and nurtured. It’s what every child deserves.
 
+<img src="https://storyhub.wvi.org/AssetLink/588n6lxk05041v6fbsxa55k6xhcy5i66.jpg" alt="Oshuri-Image">
+
+<hr>
+
 <h3 align="center">
 Facts and Statistics
 </h3>
@@ -119,12 +130,21 @@ Facts and Statistics
 <li>Every year, there are an estimated 41,000 homicide deaths in children under 15 years of age.
 <li>US$7 trillion is lost due to violence against children each year equivalent to 8 percent of global GDP.
 
+<h3 align="center">
+References and Sources
+</h3>
+
+<p>https://www.worldvision.com.au/child-abuse
+
+<p>(Facts and Statistics) https://www.who.int/en/news-room/fact-sheets/detail/child-maltreatment 
+
 
 <hr>
 
 <h4 align="center">
 Supporting all Children in need of help.
 </h4>
+
 
 <h4>
 <h4><b>Contact Us</b>
@@ -133,7 +153,7 @@ Supporting all Children in need of help.
 <h4>Email: service@freevision.com.au
 </h4>
 
-<h4></h4>
+<h3></h3>
 
  <p align="center">
  <b>Diyaa 8I | Child Abuse Support | Year 8 2020 RRRR Assesment (Mainstream)</b>
