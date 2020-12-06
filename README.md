@@ -24,7 +24,7 @@ Believe it or not, we have been asked this question more than once, so we may as
 <li> To decrease the amount of mistreatment such as sexual slavery, human trafficking and child labour and then eventually put a stop to it all over.
 <li> And most importantly... To give vulnerable young and youth a secure and safer place to live and call home.
 
-<h5 align="center"><b>Free Vision Logo</b></h4>
+<h5 align="center"><b>Free Vision Logo</b></h5>
 
 <p align="center">
 <img src="https://i.pinimg.com/564x/a2/d3/61/a2d361fdeb9a2ce800c4acbe84a437f0.jpg" alt="Free Vision Logo">
