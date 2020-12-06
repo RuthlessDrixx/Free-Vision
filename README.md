@@ -71,13 +71,13 @@ Impacts and effects of child abuse can have many consequences for short and long
 <p>Long term effects can last for life, increasing the risk of behavioural, physical and mental health problems of adults who were abused as children. Signs of child abuse could include:
 
 <ul>
-<li>depression
-<li>smoking
-<li>perpetrating or being a victim of violence
-<li>obesity
-<li>high-risk sexual behaviours
-<li>unintended pregnancy
-<li>alcohol and drug misuse
+<li>Depression
+<li>Dmoking
+<li>Perpetrating or being a victim of violence
+<li>Obesity
+<li>High-risk sexual behaviours
+<li>Unintended pregnancy
+<li>Alcohol and drug misuse
 <p>    
 
 <p>
