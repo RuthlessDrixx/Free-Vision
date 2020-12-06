@@ -134,9 +134,9 @@ Facts and Statistics
 References and Sources
 </h3>
 
-<p>https://www.worldvision.com.au/child-abuse
+<p><a href="https://www.worldvision.com.au/child-abuse">All Information</a>
 
-<p>(Facts and Statistics) https://www.who.int/en/news-room/fact-sheets/detail/child-maltreatment 
+<p><a href="https://www.who.int/en/news-room/fact-sheets/detail/child-maltreatment">Facts and Statistics</a>
 
 
 <hr>
